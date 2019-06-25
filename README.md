@@ -7,5 +7,5 @@ Finance Data is a libary made which utilizies the Binance API to collect and dow
 
 # Links
 Binance Docs : https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md
-# Note
-Still in development
+
+
